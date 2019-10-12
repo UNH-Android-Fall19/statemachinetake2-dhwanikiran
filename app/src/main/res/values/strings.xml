@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StateMachine</string>
+    <string name="wrap">WRAP</string>
+    <string name="grinder">GRINDER</string>
+    <string name="add_sandwich">ADD SANDWICH</string>
+    <string name="submit">Submit</string>
+    <string name="input_sandwich_name_here">Input Sandwich Name Here</string>
+    <string name="create_a_new_sandwich">Create a new sandwich</string>
+    <string name="choose_a_predefined_sandwich">Choose a predefined sandwich</string>
+</resources>
